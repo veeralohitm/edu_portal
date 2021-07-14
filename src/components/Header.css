@@ -1,0 +1,13 @@
+.ui.menu .item{
+    font-weight:bold;
+}
+.ui.menu .item:before{
+    background: none;
+}
+img{
+    width: 150px;
+    margin:5px;
+}
+a:hover{
+    background-color: none;
+}
